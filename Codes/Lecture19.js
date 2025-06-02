@@ -26,8 +26,8 @@ function add(number1 , number2) {
 const result = add(4,2);
 console.log(result); 
 
-// Must know there is a difference in a fucntion printing something and a function returning some thing 
-// Must know there is a difference in calling a fucntion and print out a function
+// Must know there is a difference in a function printing something and a function returning some thing 
+// Must know there is a difference in calling a function and print out a function
 
 //(number =1)  // giving default value to a parameter
 
