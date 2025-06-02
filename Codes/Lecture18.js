@@ -1,4 +1,4 @@
-// Destructring of Objects ( Destructring happens in arrays as well )
+// Destructuring of Objects ( Happens in arrays as well )
 
 const course = {
     courseName : "Js in hindi",
@@ -9,7 +9,7 @@ const course = {
 // console.log(course.courseInstructor);
 const {courseInstructor : instructor} = course;
 console.log(instructor);
-// Bascially used as syntatical sugar but in react used for imp stuff 
+// Bascially used as syntatical sugar ( also used in react for important suff )
 
 
 // in old times values used to come in xml structure which used to be complex , now values comes in json ( javascript object notation )format 
