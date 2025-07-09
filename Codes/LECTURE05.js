@@ -12,6 +12,6 @@
 //     undefined = When value is not assigned
 //     symbol = To find uniqueness
 
-// 5-> console.log(typeof(a)); => To get the data type of any given input 
+// 5-> console.log(typeof(a)); => To get the data type of any given input varibale
 
 // 6-> null => object data type
